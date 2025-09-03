@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JupedsimSharp", "JupedsimSharp.csproj", "{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		MinSizeRel|Any CPU = MinSizeRel|Any CPU
+		MinSizeRel|x64 = MinSizeRel|x64
+		MinSizeRel|x86 = MinSizeRel|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		RelWithDebInfo|Any CPU = RelWithDebInfo|Any CPU
+		RelWithDebInfo|x64 = RelWithDebInfo|x64
+		RelWithDebInfo|x86 = RelWithDebInfo|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Debug|x64.Build.0 = Debug|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Debug|x86.Build.0 = Debug|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.MinSizeRel|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.MinSizeRel|Any CPU.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.MinSizeRel|x64.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.MinSizeRel|x64.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.MinSizeRel|x86.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.MinSizeRel|x86.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Release|x64.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Release|x64.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Release|x86.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.Release|x86.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.RelWithDebInfo|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.RelWithDebInfo|Any CPU.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.RelWithDebInfo|x64.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.RelWithDebInfo|x64.Build.0 = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.RelWithDebInfo|x86.ActiveCfg = Release|Any CPU
+		{ECA59325-90DF-4B0D-8EC4-02BA836E9EBC}.RelWithDebInfo|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BFECE2-AB32-4FDA-93B1-A835193B3800}
+	EndGlobalSection
+EndGlobal
